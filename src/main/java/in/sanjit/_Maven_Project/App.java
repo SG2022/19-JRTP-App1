@@ -18,5 +18,7 @@ public class App
     }
     
     public void decode(String y)
-    {}
+    {
+    	System.out.println("gitignore working");
+    }
 }
