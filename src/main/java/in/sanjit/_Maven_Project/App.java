@@ -17,6 +17,6 @@ public class App
     	
     }
     
-    public void decode(int y)
+    public void decode(String y)
     {}
 }
