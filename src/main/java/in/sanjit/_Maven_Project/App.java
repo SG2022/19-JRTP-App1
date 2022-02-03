@@ -12,9 +12,11 @@ public class App
         System.out.println("Trying Github");
     }
     
-    public void encode()
-    {}
+    public void encode(int x)
+    {
+    	
+    }
     
-    public void decode()
+    public void decode(int y)
     {}
 }
