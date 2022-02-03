@@ -11,4 +11,10 @@ public class App
         System.out.println( "trying feature-132" );
         System.out.println("Trying Github");
     }
+    
+    public void encode()
+    {}
+    
+    public void decode()
+    {}
 }
