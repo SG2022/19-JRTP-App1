@@ -14,7 +14,7 @@ public class App
     
     public void encode(int x)
     {
-    	
+    	int y = 2;
     }
     
     public void decode(String y)
